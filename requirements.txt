@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+oracledb
+python-dotenv
+openpyxl
+numpy
